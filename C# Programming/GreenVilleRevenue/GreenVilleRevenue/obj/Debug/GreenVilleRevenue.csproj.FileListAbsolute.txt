@@ -1,0 +1,6 @@
+C:\Users\Dillon\Desktop\Chapter 6\GreenVilleRevenue\GreenVilleRevenue\bin\Debug\GreenVilleRevenue.exe.config
+C:\Users\Dillon\Desktop\Chapter 6\GreenVilleRevenue\GreenVilleRevenue\bin\Debug\GreenVilleRevenue.exe
+C:\Users\Dillon\Desktop\Chapter 6\GreenVilleRevenue\GreenVilleRevenue\bin\Debug\GreenVilleRevenue.pdb
+C:\Users\Dillon\Desktop\Chapter 6\GreenVilleRevenue\GreenVilleRevenue\obj\Debug\GreenVilleRevenue.csprojResolveAssemblyReference.cache
+C:\Users\Dillon\Desktop\Chapter 6\GreenVilleRevenue\GreenVilleRevenue\obj\Debug\GreenVilleRevenue.exe
+C:\Users\Dillon\Desktop\Chapter 6\GreenVilleRevenue\GreenVilleRevenue\obj\Debug\GreenVilleRevenue.pdb
